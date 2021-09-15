@@ -2,7 +2,7 @@
 Favorite XKCD strips
 
 
-* https://xkcd.com/208/ - Regular Expressions
+  * https://xkcd.com/208/ - Regular Expressions
  
 
 
