@@ -3,10 +3,7 @@ Favorite XKCD strips
 
 
  Markup : * https://xkcd.com/208/ - Regular Expressions
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
+ 
 
 
 https://xkcd.com/303/ - Compiling
