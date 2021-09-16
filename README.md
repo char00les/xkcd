@@ -10,3 +10,4 @@ Favorite XKCD strips
   * https://xkcd.com/936/ - Password Strength
   * https://xkcd.com/1508/ - Operating Systems
   * https://xkcd.com/1823/ - Hottest Editors
+  * https://xkcd.com/2507/ - USV-C
